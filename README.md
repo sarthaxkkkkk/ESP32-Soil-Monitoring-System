@@ -53,8 +53,12 @@ The ESP32 acts as the main controller and:
 
 
 
-#🎥 Demo Video
+## 🎥 Demo Video
 
-A demonstration video of the working prototype is available here:
+A demonstration of the working prototype is available below.
 
-▶️ ⁠ https://drive.google.com/drive/folders/1wyhEaleoYWu8CemkByra5A6UBXUV10Iu
+### ▶️ [WATCH THE PROJECT DEMO](https://drive.google.com/drive/folders/1wyhEaleoYWu8CemkByra5A6UBXUV10Iu)
+
+**📌 Demo Video:**  
+[Click here to watch the complete project demonstration](https://drive.google.com/drive/folders/1wyhEaleoYWu8CemkByra5A6UBXUV10Iu)
+
