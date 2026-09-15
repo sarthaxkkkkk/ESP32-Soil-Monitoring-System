@@ -10,8 +10,8 @@
 // WIFI
 // =================================================
 
-const char* ssid = "iPhone";
-const char* password = "12345678";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 
 // =================================================
@@ -19,7 +19,7 @@ const char* password = "12345678";
 // =================================================
 
 unsigned long channelID = 3474573;
-const char* writeAPIKey = "8NREBTZ*******";
+const char* writeAPIKey = "YOUR_THINGSPEAK_WRITE_API_KEY";
 
 WiFiClient client;
 
