@@ -50,3 +50,11 @@ The ESP32 acts as the main controller and:
                        │    OLED     │       │  ThingSpeak │
                        │   Display   │       │    Cloud    │
                        └─────────────┘       └─────────────┘
+
+
+
+#🎥 Demo Video
+
+A demonstration video of the working prototype is available here:
+
+▶️ ⁠ https://drive.google.com/drive/folders/1wyhEaleoYWu8CemkByra5A6UBXUV10Iu
