@@ -19,7 +19,7 @@ const char* password = "12345678";
 // =================================================
 
 unsigned long channelID = 3474573;
-const char* writeAPIKey = "8NREBTZPZ8YF50HO";
+const char* writeAPIKey = "8NREBTZ*******";
 
 WiFiClient client;
 
